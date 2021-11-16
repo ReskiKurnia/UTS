@@ -1,6 +1,6 @@
 
      UTS PEMROGRAMAN WEB 
-
+     -------------------
 
      KELOMPOK :
 
@@ -8,7 +8,7 @@
      20.83.xxxx_USER NAME
      20.83.xxxx_USER NAME
 
-     PEMBAGIAN TUGAS
+     PEMBAGIAN TUGAS :
 
      RESKI KURNIA 
      - MOCKUP 
