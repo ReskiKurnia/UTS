@@ -1,1 +1,7 @@
 # UTS
+
+NAMA : RESKI KURNIA 
+NIM  : 20.83.0530
+
+
+
